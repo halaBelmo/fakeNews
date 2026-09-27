@@ -63,8 +63,8 @@ FakeNews/
 Clone the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
-cd FakeNews
+git clone <https://github.com/halaBelmo/fakeNews>
+cd fakeNews
 ```
 
 Create the project environment and install the locked dependencies:
