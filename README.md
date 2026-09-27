@@ -63,7 +63,7 @@ FakeNews/
 Clone the repository:
 
 ```bash
-git clone <https://github.com/halaBelmo/fakeNews>
+git clone <https://github.com/halaBelmo/fakeNews.git>
 cd fakeNews
 ```
 
